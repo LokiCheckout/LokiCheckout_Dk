@@ -1,6 +1,6 @@
 # LokiCheckout_Dk
 
-**This Magento 2 module is an add-on package for the country `Dk`.
+**This Magento 2 module is an add-on package for Denmark.**
 
 ## Installation
 Install this package via composer:
